@@ -21,9 +21,20 @@
 
 </br>
 
+## 🚩 정리한 문서 목록
+
+### 📔 GPU 처리 원리
+
+ - [CPU와 GPU 기초](https://github.com/erectbranch/GPU_Basic/tree/master/ch01)
+
+   > CRT, LCD, GPU가 display하는 원리(full buffer/tiling), DAC, 3D 그래픽, transpose, CPU와 GPU 성능 비교, heterogeneous system, SoC, SIMD와 SIMT
+
+
+</br>
+
 ## :mag: 목차
 
-### ### Chapter 1 [입문] 프로세서와 GPU
+### Chapter 1 [입문] 프로세서와 GPU
 
 1.1 컴퓨터 시스템과 이미지 표시의 기초
 
