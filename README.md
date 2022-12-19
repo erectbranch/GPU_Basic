@@ -29,6 +29,12 @@
 
    > CRT, LCD, GPU가 display하는 원리(full buffer/tiling), DAC, 3D 그래픽, transpose, CPU와 GPU 성능 비교, heterogeneous system, SoC, SIMD와 SIMT
 
+ - [GPU와 계산 처리 변쳔](https://github.com/erectbranch/GPU_Basic/tree/master/ch02)
+
+   > vertex shader, pixel shader, unified shader, Tesla GPU, Streaming Multiprocessor, CUDA
+
+   > 병렬 처리 패러다임: MIMD, SIMD, SIMT
+
 
 </br>
 
